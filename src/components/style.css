@@ -1,0 +1,427 @@
+*{
+    background-image: url("https://cutewallpaper.org/21/wallpapers-for-website/Geometric-abstract-grey-background-for-bussines-templates-.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /* font-family: "Trirong", serif; */
+}
+
+nav {background: rgb(174, 9, 250);
+height: 63px;
+width: 100.7%;
+display: flex;
+justify-content: flex-end;
+flex-wrap: wrap;
+
+}
+
+nav ul {
+    display:contents;
+
+}
+
+nav ul li {background: rgb(174, 9, 250);
+    font-family: "Trirong", serif;
+    font-size: 18px;
+border:none;
+list-style: none;
+text-align: center;
+height:inherit;
+position: relative;
+right:10px;
+padding: 16px;
+align-self: center;
+width: 125px;
+color: white;
+text-decoration: None;
+list-style: none;
+}
+
+
+nav ul li:hover
+{
+    background:rgb(37, 37, 37);
+    color: lavender;
+}
+header{
+    width: 100%;
+    height: 400px;
+    background-image:url("aboutusheader.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: scroll;
+
+
+}
+.headContent{
+    margin: top 5px; ;
+    
+    width: 100%;
+    height: 400px;
+    background-image: url("https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2017/07/06/Pictures/_ff36e9b2-6250-11e7-8e9a-26934b659213.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-attachment: scroll;
+    
+}
+.header{
+    margin: top 5px; 
+    width: 100%;
+    height: 400px;
+    background-image:url("contactusimg.jpg");
+    position: relative;
+    background-attachment: scroll;
+    background-size:100% 500px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+.headContent img{
+    width:200px;
+    height: 200px;
+    background-image: none;
+    position: relative;
+    bottom: 15px;
+  
+}
+.headContent h1{
+    position: relative;
+    left: 0px;
+    top: -10px;
+    color: rgba(250, 249, 249, 0.993);
+
+}
+.about{
+    width: 200px;
+    height: 50px;
+    position: relative;
+    /* /* left:46.4%; */
+    background-image: none;
+    justify-content: center;
+    
+}
+.headContent li{
+    text-align: center;
+    background-image: none;
+    background-color: rgb(37, 37, 37);
+    border: 2px solid black;
+    border-radius: 5px;
+    position: relative;
+    justify-content: center;
+    color:rgba(250, 249, 249, 0.993) ;
+    width: 100px;
+    list-style: none;
+}
+.heading{
+    position:relative;
+    left: 540px;
+    width:200px;
+    margin-bottom: 70px;
+}
+h1{
+    font-family: "Trirong", serif;
+    position: relative;
+    bottom: -35px;
+    left: 50px;
+    background-image: none;
+}
+.threeb{
+    background-image: none;
+    text-align: center;
+}
+.threeb h2{
+    background-image: none;
+}
+.productarea{
+    margin: 40px;
+    margin-right:110px;
+    display:inline-flex;
+    flex-direction: row;
+    background-image: none;
+    width: 300px;
+    flex-wrap: wrap;
+    text-align: left;
+    align-content:flex-start;
+    position: relative;
+    top: 20px;
+}
+.aboutusflex{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+
+}
+
+.boximg{
+    background-image:url("whoareweimg.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: scroll;
+    
+}
+.vision,.boximg,.mission,.companyprofile{
+    display: inline-block;
+    width:500px;
+    height: 300px;
+    margin: 15px;
+    margin-top: 25px;
+    padding: 10px;
+
+}
+.vision h1 ,.boximg h1,.mission h1, .companyprofile h1{
+    position: relative;
+    top:-10px;
+    left:-5px;
+    align-self: flex-start;
+
+}
+.vision p ,.boximg p,.mission p, .companyprofile p{  
+    position: relative;
+    top:10px;
+    
+
+}
+.boximg,.mission{
+    position: relative;
+    right: 125px;
+}
+
+.singleproduct{
+    background-image: none;
+
+   border-style: outset;
+   border-width: 1px;
+    border-radius: 4px;
+    margin: 10px;
+
+    width: 250px;
+    height: 435px;
+    background: rgba(250, 249, 249, 0.993);
+
+}
+.singleproduct img{
+    width: 250px;
+    height: 250px;
+    position:relative;
+    
+    align-items: center;
+
+
+}
+.Images{
+    display:inline-flex;
+    flex-direction: row;
+    background-image: none;
+
+
+
+}
+.Images img{
+    width:200px;
+    height:200px;
+    display:inline;
+    background-image: none;
+    
+}
+.imgs{
+    background-image: none;
+    margin-right:160px ;
+    margin-left: 100px;
+    margin-top:10px;
+    margin-bottom: 20px;
+    text-align: center;
+    justify-self: center;
+    height: 320px;
+
+}
+.statement{
+    position:relative;
+    bottom:1px;
+    left:2px;
+    background-image: none;
+    text-align: center;
+    justify-content: center;
+}
+.statement2{
+    position:relative;
+    bottom:1px;
+    left: 16px;
+    background-image: none;
+    text-align: center;
+    justify-content: center;
+
+}
+.sno{background: rgba(250, 249, 249, 0.993);;
+    display: inline-block;
+    border: 1px solid black;
+    width:10px;
+    height: 16px;
+    
+}
+
+.singleproduct h2{
+    background: rgba(250, 249, 249, 0.993);
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    top: -20px;
+    left: 78px;
+}
+.productdescription{
+    background: rgba(250, 249, 249, 0.993);
+    position: relative;
+    top: -35px;
+    text-align: center;
+}
+.productarea button{
+    text-align: center;
+    background-image: none;
+    background-color: rgb(37, 37, 37);
+
+    margin: 20px;
+    margin-top: 0px;
+    margin-left: 25px;
+    border: 2px solid black;
+    border-radius: 5px;
+    position: relative;
+    top: -20px;
+    text-decoration:none;
+    color:rgba(250, 249, 249, 0.993) ;
+    padding: 2px;
+}
+.productarea li{
+    display: inline;
+    text-align: center;
+    background-image: none;
+    background-color: rgb(37, 37, 37);
+    list-style: none;
+    margin: 20px;
+    margin-top: 0px;
+    margin-left: 25px;
+    border: 2px solid black;
+    border-radius: 5px;
+    position: relative;
+    top: -20px;
+    text-decoration:none;
+    color:rgba(250, 249, 249, 0.993) ;
+    padding: 2px;
+}
+
+ 
+.category{
+    background-image: none;
+    display: inline-flex;
+    flex-direction:row;
+    width:100%;
+    height:50px;
+    position:relative;
+    top: 60px;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+}
+.category button{
+    font-family: "Trirong", serif;
+    font-size: 15px;
+
+    background: cornflowerblue;
+    color: cornsilk;
+    border:none;
+    border-right: 1px solid cornsilk;
+    display:inline;
+    height: 45px;
+    width: 200px;
+    align-items: center;
+    text-align-last: center;
+    position: relative;
+    left: auto;
+}
+.contactusbody{
+    display: flex;
+    flex-direction: row;
+    background-image: none;
+
+
+}
+.main1{
+    display: inline-block;
+    width:650px;
+    margin: 20px;
+    padding: 10px;
+ }
+ .main1 p{
+     width: 325px;
+     margin-bottom:  15px; 
+ }
+.form{
+    width: 400px;
+    margin: 20px;
+    padding: 38px;
+}
+ .inputfield{
+     margin: 10px;
+     padding: 10px;
+     width:300px;
+     position: relative;
+     right: 20px;
+
+ }
+ .inputfield input{width:400px;
+    height:30px;
+    border-radius: 6px;
+    
+
+ }
+
+.category button:active{
+    background-color: black;
+    color: azure;
+}
+
+.location, .callus{
+    position:relative;
+    bottom: 50px;
+    margin-left: 5px;
+    margin-bottom: 50px;
+    margin-top: 32px;
+
+
+}
+.form{position: relative;
+    bottom: 50px;
+    padding-left: 50px;
+
+
+}
+.is_active{
+    background: black;
+
+}
+.underconstruction img{
+    width:100%;
+    height:100%;
+    background-attachment: fixed;
+    background-size: contain;
+}
+.submitbutton {
+    cursor: pointer;
+    background: #050505;
+    color: aliceblue;
+    position:relative;
+    left:153px;
+    padding: 5px;
+    border: 1px solid rgb(50, 240, 50);
+    border-radius: 10px;
+    
+}
